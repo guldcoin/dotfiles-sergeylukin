@@ -1,0 +1,9 @@
+[user]
+	username = sergeylukin
+	name = Sergey Lukin
+	location = Tel Aviv, Israel
+	website = http://sergeylukin.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = sergeylukin
